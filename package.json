@@ -1,0 +1,25 @@
+{
+  "name": "acf-create-block-template",
+  "version": "0.1.0",
+  "description": "Extends @wordpress/create-block template for ACF",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colorful-tones/acf-create-block-template.git"
+  },
+  "author": {
+    "name": "Damon Cook",
+    "url": "https://damonacook.com"
+  },
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/colorful-tones/acf-create-block-template/issues"
+  },
+  "keywords": [
+    "wordpress",
+    "create block",
+    "block template",
+    "dynamic block"
+  ],
+  "homepage": "https://github.com/colorful-tones/acf-create-block-template#readme"
+}
