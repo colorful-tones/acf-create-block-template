@@ -14,12 +14,14 @@ module.exports = {
 		editorScript: 'file:./index.js',
 		style: 'file:./style-index.css'
 	},
+	customBlockJSON: {
+		acf: {
+			"mode": "preview"
+		},
+	},
 	variants: {
 		static: {},
 		dynamic: {
-			acf: {
-				"mode": "preview"
-			},
 			"render": "file:./render.php"
 		}
 	}
