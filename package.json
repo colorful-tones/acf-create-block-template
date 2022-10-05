@@ -1,6 +1,6 @@
 {
   "name": "@colorful-tones/acf-create-block-template",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Extends @wordpress/create-block template for ACF",
   "main": "index.js",
   "repository": {
@@ -22,5 +22,8 @@
     "dynamic block",
     "acf"
   ],
-  "homepage": "https://github.com/colorful-tones/acf-create-block-template#readme"
+  "homepage": "https://github.com/colorful-tones/acf-create-block-template#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
