@@ -1,5 +1,5 @@
 {
-  "name": "acf-create-block-template",
+  "name": "@colorfultones/acf-create-block-template",
   "version": "0.1.1",
   "description": "Extends @wordpress/create-block template for ACF",
   "main": "index.js",
@@ -19,7 +19,8 @@
     "wordpress",
     "create block",
     "block template",
-    "dynamic block"
+    "dynamic block",
+    "acf"
   ],
   "homepage": "https://github.com/colorful-tones/acf-create-block-template#readme"
 }
