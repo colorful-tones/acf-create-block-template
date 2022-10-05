@@ -1,6 +1,6 @@
 {
   "name": "@colorfultones/acf-create-block-template",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Extends @wordpress/create-block template for ACF",
   "main": "index.js",
   "repository": {
