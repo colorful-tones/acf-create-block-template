@@ -1,6 +1,6 @@
 {
   "name": "acf-create-block-template",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extends @wordpress/create-block template for ACF",
   "main": "index.js",
   "repository": {
