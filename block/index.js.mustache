@@ -1,0 +1,10 @@
+import './styles.scss';
+
+// Initialize.
+document.addEventListener('DOMContentLoaded', () => {
+	// Init ACF's preview.
+	if (window.acf) {
+		console.log( 'Hello from {{name}}' );
+		window.acf.addAction('render_block_preview/type={{namespace}}/{{slug}}', initMyBlock )
+	}
+});
